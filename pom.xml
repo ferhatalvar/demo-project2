@@ -55,7 +55,7 @@
                     <threadCount>4</threadCount>-->
                     <testFailureIgnore>true</testFailureIgnore>
                     <includes>
-                        <include>**/*Runner.java</include>
+                        <include>**/*CukesRunner.java</include>
                     </includes>
                 </configuration>
             </plugin>
